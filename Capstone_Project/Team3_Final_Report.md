@@ -1,7 +1,7 @@
 # Real-Time Financial Fraud Detection Using AI-Driven Streaming Pipeline
 
 **Course:** CPS 698 — Applied Data Engineering Capstone  
-**Mentor:** Dr. Jesse L Eickholt  
+**Mentor:** Dr. Sisheng Liang  
 **Team:** Team 3  
 **Members:** Vinay Kumar Simma, Pradeep Yarlagadda, Praneeth Reddy Ambati  
 **Due Date:** May 6, 2025  
