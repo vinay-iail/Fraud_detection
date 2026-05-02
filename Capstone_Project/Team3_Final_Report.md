@@ -1,10 +1,8 @@
-# Real-Time Financial Fraud Detection Using AI-Driven Streaming Pipeline
+# Explainable Machine Learning System for Real-Time Financial Fraud Detection
 
-**Course:** CPS 698 — Applied Data Engineering Capstone  
 **Mentor:** Dr. Sisheng Liang  
 **Team:** Team 3  
 **Members:** Vinay Kumar Simma, Pradeep Yarlagadda, Praneeth Reddy Ambati  
-**Due Date:** May 6, 2025  
 
 ---
 
@@ -471,7 +469,6 @@ All task cards include six-hour time estimates and name individual contributors 
 
 ## Appendix D: Final Project Self-Evaluation
 
-**Course:** CPS 698  
 **Team 3:** Vinay Kumar Simma, Pradeep Yarlagadda, Praneeth Reddy Ambati
 
 ---
@@ -514,7 +511,7 @@ We documented our architecture through presentation slides and maintained techni
 
 **Question 1G: Describe the final system and its global impact to a general audience.**
 
-The final system we developed is a Real-Time Financial Fraud Detection Pipeline that uses "Explainable AI" to provide transparency in automated decision-making. Unlike "black-box" models, our system uses SHAP and LIME to explain exactly why a transaction was flagged — such as a geographic mismatch or an unusual spending spike. Its global impact lies in increasing trust and fairness in financial technology by making AI-driven security decisions understandable and accountable to the average consumer.
+The final system we developed is an Explainable Machine Learning System for Real-Time Financial Fraud Detection that uses "Explainable AI" to provide transparency in automated decision-making. Unlike "black-box" models, our system uses SHAP and LIME to explain exactly why a transaction was flagged — such as a geographic mismatch or an unusual spending spike. Its global impact lies in increasing trust and fairness in financial technology by making AI-driven security decisions understandable and accountable to the average consumer.
 
 ---
 
